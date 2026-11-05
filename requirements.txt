@@ -1,0 +1,6 @@
+Pandas
+Numpy
+Matplotlib
+Seaborn
+Stats from Scipy
+Logging
