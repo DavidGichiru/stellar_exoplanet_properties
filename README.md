@@ -40,6 +40,9 @@ Workflow:
 5. Investigate potential outliers and unusual astronomical objects.
 6. Discuss findings, limitations and possible sources of bias.
 
+Limitations of the dataset:
+This specific dataset did not contain the planet radius data, therefore doing any analysis on any relationships concerning planet radii was impossible; the various analysis that could be done using the radius data would be the correlation between planet radius and mass, aiming to understand whether radius has any causation on the mass of a planet, either linearly or non-linearly.
+
 Findings:
 
 1. Distribution of exoplanet discoveries in the years listed in the dataset:
