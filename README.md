@@ -43,6 +43,20 @@ Workflow:
 Limitations of the dataset:
 This specific dataset did not contain the planet radius data, therefore doing any analysis on any relationships concerning planet radii was impossible; the various analysis that could be done using the radius data would be the correlation between planet radius and mass, aiming to understand whether radius has any causation on the mass of a planet, either linearly or non-linearly.
 
+Reproducing the analysis:
+1. clone this repository:
+   git clone
+   https://github.com/DavidGichiru/stellar_exoplanet_properties
+2. Navigate to project directory:
+   cd stellar_exoplanet_properties
+3. Install the dependencies:
+   pip install -r requirements.txt
+4.Download the dataset from NASA exoplanet archive:
+   https://exoplanetarchive.ipac.caltech.edu/
+5. Open the jupyter notebook
+6. Open Stellar&Exoplanet_properties.ipynb and run the cells sequentially
+   
+
 Findings:
 
 1. Distribution of exoplanet discoveries in the years listed in the dataset:
