@@ -51,10 +51,10 @@ Reproducing the analysis:
    cd stellar_exoplanet_properties
 3. Install the dependencies:
    pip install -r requirements.txt
-4.Download the dataset from NASA exoplanet archive:
+5. Download the dataset from NASA exoplanet archive:
    https://exoplanetarchive.ipac.caltech.edu/
-5. Open the jupyter notebook
-6. Open Stellar&Exoplanet_properties.ipynb and run the cells sequentially
+6. Open the jupyter notebook
+7. Open Stellar&Exoplanet_properties.ipynb and run the cells sequentially
    
 
 Findings:
